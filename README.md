@@ -14,7 +14,7 @@ No Pagar.me, temos duas entidades que representam essas informações:
 * `transactions`: que representam as informações da compra, dados do cartão, valor, etc
 * `payables`: que representam os recebíveis que pagaremos ao cliente
 
-> Nota: quando um cliente passa uma transação de crédito, ele normalmente recebe o valor em média apenas 30 dias depois (o que chamamos de D+30), porque é assim que a cadeia financeira (bancos, bandeiras, adquirentes) funciona. Porém é possível receber esse valor antes dos 30 dias através de um mecanismo chamado "antecipação". Se tiver curiosidade, a gente tem artigo que explica sobre isso, mas isso não é necessário para realizar esse desafio: https://pagarme.zendesk.com/hc/pt-br/articles/217029766-O-que-%C3%A9-antecipa%C3%A7%C3%A3o-
+> Nota: quando um cliente passa uma transação de crédito, ele normalmente recebe o valor em média apenas 30 dias depois (o que chamamos de D+30), porque é assim que a cadeia financeira (bancos, bandeiras, adquirentes) funciona. Porém é possível receber esse valor antes dos 30 dias através de um mecanismo chamado "antecipação".
 
 ## Requisitos
 
